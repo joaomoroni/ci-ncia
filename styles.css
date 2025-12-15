@@ -1,0 +1,22 @@
+* {
+    margin: 12;
+    padding: 0;
+    box-sizing: border-box;
+    font-style: italic;
+}
+
+
+
+body {
+    text-align: center;
+    background-image: url('imgciencia.jpg');
+    
+}
+
+header {
+    margin-top:  20px;
+}
+head {
+    background-image: url('imgciencia.jpg');
+}
+
