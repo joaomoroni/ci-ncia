@@ -11,6 +11,8 @@ body {
     text-align: center;
     background-image: url('imgciencia.jpg');
     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 
     
 }
@@ -21,4 +23,5 @@ header {
 head {
     background-image: url('imgciencia.jpg');
 }
+
 
