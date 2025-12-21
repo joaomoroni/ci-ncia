@@ -25,3 +25,12 @@ head {
 }
 
 
+.estilo { 
+    background: white;
+    margin: 50px;
+}
+
+#estilounico { 
+    background: blue;
+    margin: 200px;
+}
